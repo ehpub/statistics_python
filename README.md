@@ -1,7 +1,7 @@
 # statistics_python
 빅데이터 분석에서 필요한 통계를 파이썬 코드로 설명합니다.
 
-본문 
+본문 및 링크
 
 들어가기 전에 : https://ehpub.co.kr/%eb%93%a4%ec%96%b4%ea%b0%80%ea%b8%b0-%ec%a0%84%ec%97%90-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9c%bc%eb%a1%9c-%eb%8b%a4%eb%a3%a8%eb%8a%94-%ed%86%b5%ea%b3%84/
 
