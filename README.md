@@ -25,4 +25,5 @@ t 검정 : https://ehpub.co.kr/t-%ea%b2%80%ec%a0%95-%ed%8c%8c%ec%9d%b4%ec%8d%ac%
 
 F분포와 F검정(등분산검정) (stats.f) : https://ehpub.co.kr/f%eb%b6%84%ed%8f%ac%ec%99%80-f%ea%b2%80%ec%a0%95%eb%93%b1%eb%b6%84%ec%82%b0%ea%b2%80%ec%a0%95-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9c%bc%eb%a1%9c-%eb%8b%a4%eb%a3%a8%eb%8a%94-%ed%86%b5%ea%b3%84/
 
-2023년 7월 28일부터 집필 중입니다.
+ANOVA : https://ehpub.co.kr/anova-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9c%bc%eb%a1%9c-%eb%8b%a4%eb%a3%a8%eb%8a%94-%ed%86%b5%ea%b3%84/
+
